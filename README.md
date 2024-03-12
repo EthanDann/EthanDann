@@ -11,15 +11,18 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/EthanDann/SOC-Automation-Project">SOC Automation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/EthanDann/SOC-Automation-Project">SOC Automation Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/EthanDann/SOC-Automation-Project">SOC Automation Lab</a>||
-| Incident Response Planning and Execution      | <a href="https://github.com/EthanDann/SOC-Automation-Project">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/EthanDann/SOC-Automation-Project">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/EthanDann/SOC-Automation-Project">SOC Automation Lab</a>|
+| SIEM Implementation and Log Analysis          | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project/blob/main/SOC%20Automation%20Project%20Day%20Four.md)|
+| Network Traffic Monitoring and Attack Detection | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project/blob/main/SOC%20Automation%20Project%20Day%20Four.md)|
+| Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project/blob/main/SOC%20Automation%20Project%20Day%20Five.md)|
+| Incident Response Planning and Execution      | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project)|
+| Case Management with TheHive                  | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project/blob/main/SOC%20Automation%20Project%20Day%20Five.md)|
+| Active Directory Management                  | [Active Directory Project](https://github.com/EthanDann/Active-Directory-Project)|
+| Integration of Active Directory with SIEM                  | [Active Directory Project](https://github.com/EthanDann/Active-Directory-Project)|
+| User and Group Management                  | [Active Directory Project](https://github.com/EthanDann/Active-Directory-Project)|
+| Security Policies Implementation                  | [Active Directory Project](https://github.com/EthanDann/Active-Directory-Project)|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -35,7 +38,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-333333?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
