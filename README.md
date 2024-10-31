@@ -1,11 +1,11 @@
 # Hello, I'm Ethan
 <a href="https://www.linkedin.com/in/ethan-dann-b516a9193/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity Enthusiast with experience as a Software Developer with a profound interest in technology and a dedication to solving complex problems.
+I am an aspiring Cybersecurity professional with experience as a Software Developer with an interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst.
 
 ## Skills
 
