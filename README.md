@@ -1,7 +1,7 @@
 # Hello, I'm Ethan
 <a href="https://www.linkedin.com/in/ethan-dann-b516a9193/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an aspiring Cybersecurity professional with experience as a Software Developer with an interest in technology and a dedication to solving complex problems.
+I'm an aspiring Cybersecurity professional with experience as a Software Developer with an interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
