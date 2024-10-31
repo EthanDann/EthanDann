@@ -11,11 +11,11 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project/blob/main/SOC%20Automation%20Project%20Day%20Four.md)|
-| Network Traffic Monitoring and Attack Detection | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project/blob/main/SOC%20Automation%20Project%20Day%20Four.md)|
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project/blob/main/SOC%20Automation%20Project%20Day%20Five.md)|
+| SIEM Implementation and Log Analysis          | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project)|
+| Network Traffic Monitoring and Attack Detection | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project)|
+| Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project)|
 | Incident Response Planning and Execution      | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project)|
-| Case Management with TheHive                  | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project/blob/main/SOC%20Automation%20Project%20Day%20Five.md)|
+| Case Management with TheHive                  | [SOC Automation Lab](https://github.com/EthanDann/SOC-Automation-Project)|
 | Active Directory Management                  | [Active Directory Project](https://github.com/EthanDann/Active-Directory-Project)|
 | Integration of Active Directory with SIEM                  | [Active Directory Project](https://github.com/EthanDann/Active-Directory-Project)|
 | User and Group Management                  | [Active Directory Project](https://github.com/EthanDann/Active-Directory-Project)|
